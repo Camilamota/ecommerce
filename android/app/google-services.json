@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "876660329018",
+    "firebase_url": "https://ecommerce-69353.firebaseio.com",
+    "project_id": "ecommerce-69353",
+    "storage_bucket": "ecommerce-69353.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876660329018:android:428f8f2fe6142175e54303",
+        "android_client_info": {
+          "package_name": "br.com.chadwick.ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "876660329018-fpctbd3cn01kqmg78isijl6c2coj6j3h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYBq7tBZ2gCNE8kZ_aWD2uezvlT6RFEZU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "876660329018-fpctbd3cn01kqmg78isijl6c2coj6j3h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
